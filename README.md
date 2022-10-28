@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/SergeyMephister/SergeyMephister/blob/main/assets/logo_git.png)
 
 About Me
 

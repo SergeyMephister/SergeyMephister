@@ -25,4 +25,5 @@
 ![Header](https://img.shields.io/badge/testng-090909?style=for-the-badge&logo=TestNG)
 ![Header](https://img.shields.io/badge/RestAssured-090909?style=for-the-badge&logo=RestAssured)
 
-Follow Me
+### Follow Me
+[![Header](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/sergey-mephister)

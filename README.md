@@ -58,6 +58,7 @@
 </p>
 
 ## My Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyMephister&repo=wikipedia-tests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/SergeyMephister/wikipedia-tests)
 
 ## Contacts
 <p align="left">
